@@ -1,0 +1,50 @@
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.exe
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.deps.json
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.runtimeconfig.json
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.pdb
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.AssemblyReference.cache
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.AssemblyInfoInputs.cache
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.AssemblyInfo.cs
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.CoreCompileInputs.cache
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.CopyComplete
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\refint\EventsManager.dll
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.pdb
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.genruntimeconfig.cache
+C:\Users\janei\OneDrive\Documentos\Avanade_2024\EventsManager\EventsManager\obj\Debug\net8.0\ref\EventsManager.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.exe
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.deps.json
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.runtimeconfig.json
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\EventsManager.pdb
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\SkiaSharp.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.AssemblyReference.cache
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.AssemblyInfoInputs.cache
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.AssemblyInfo.cs
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.CoreCompileInputs.cache
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.csproj.CopyComplete
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\refint\EventsManager.dll
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.pdb
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\EventsManager.genruntimeconfig.cache
+c:\Users\janei\OneDrive\Documentos\Projetos Programação\EventsManager\EventsManager\obj\Debug\net8.0\ref\EventsManager.dll

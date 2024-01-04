@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PBAryH7+6bUf9HBW3n3uTdV63K6MhWWZZzw0cVRY+PNy1oNgSp+yVfHe+S6Jvz3pH1sCO0DKK4n+79rtgiIU6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\janei\\OneDrive\\Documentos\\Projetos Programação\\EventsManager\\EventsManager\\EventsManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\janei\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\janei\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\janei\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\janei\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\janei\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
